@@ -1,0 +1,11 @@
+.root {
+    color: navy;
+    font-size: 16px;
+    padding: 8px 12px;
+    border-bottom: 1px solid lightgray;
+    transition: background-color 0.3s;
+}
+
+.root:hover {
+    background-color: lightblue;
+}
